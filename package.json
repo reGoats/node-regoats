@@ -1,0 +1,28 @@
+{
+  "name": "regoats-client",
+  "version": "1.0.0",
+  "description": "To install, run this in your command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://dtesler@github.com/reGoats/node-regoats.git"
+  },
+  "author": "GoForge, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reGoats/node-regoats/issues"
+  },
+  "homepage": "https://github.com/reGoats/node-regoats",
+  "keywords": [
+    "regoats",
+    "storage",
+    "client",
+    "s3",
+    "alternative",
+    "scalable",
+    "service"
+  ]
+}
